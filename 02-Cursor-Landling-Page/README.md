@@ -56,6 +56,6 @@ This project focuses on clean layout structure, reusable CSS variables, and mode
 
 ## 📸 Screenshots
 
-![Final Look](Webpage-Scrrenshot\Final-look.png)
+![Final Look](Webpage-Scrrenshot\final_look.png)
 
 
