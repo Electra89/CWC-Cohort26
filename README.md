@@ -20,7 +20,7 @@
 >  Mintlify landing page.
 
 📂 Folder:  
-[03-Mintify-Landling-Page](./03-Mintify-Landling-Page/mintlify)
+[03-Mintify-Landling-Page](./03-Mintify-Landling-Page)
 
 ---
 
