@@ -12,15 +12,15 @@ This project focuses on clean layout structure, reusable CSS variables, and mode
 
 * Sticky Header / Navigation
 * Hero Section
-* Trusted By (Logos)
-* Feature Sections (3 blocks)
+* Trusted By 
+* Feature Sections 
 * Testimonials Grid
-* Frontier / Use Cases
+* Use Cases
 * Changelog
 * Research Section
 * Highlights
 * Final CTA
-* Footer (5-column layout)
+* Footer 
 
 ---
 
@@ -42,17 +42,6 @@ This project focuses on clean layout structure, reusable CSS variables, and mode
 * **Accent Orange:** `#F54E00`
 * **Button Background:** `#EDECEC`
 
----
-
-<!-- ## 🛠 Technologies
-
-* HTML5
-* CSS3
-* CSS Grid
-* Flexbox
-* CSS Variables
-
-No frameworks used. -->
 
 ---
 
@@ -67,5 +56,6 @@ No frameworks used. -->
 
 ## 📸 Screenshots
 
-(Add screenshots in a `/screenshots` folder and link them here)
+![Final Look](Webpage-Scrrenshot\Final-look.png)
+
 
